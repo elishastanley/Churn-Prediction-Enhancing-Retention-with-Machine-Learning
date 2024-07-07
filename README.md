@@ -85,6 +85,8 @@ In this project, we aim to determine the likelihood of a customer leaving the or
 ## Power BI Dashboard
 
 [Power BI LIVE! Link](https://app.powerbi.com/view?r=eyJrIjoiNzg5Yjc4ZTktYmM5My00NmMxLThiYzYtZjNiNGU2NjA2YjllIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9)
+   
+   
 ![images/Screenshot 2024-07-07 203540.png](<images/Screenshot 2024-07-07 203540.png>)
 
 ## Scope and Constraints
